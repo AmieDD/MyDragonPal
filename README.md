@@ -1,4 +1,8 @@
-# Unity ARKit Plugin for Dragn Pal #
+# My Dragon Pal AR App #
+![AR Dragon Demo](http://amiedd.com/blogimageuploads/indy.jpg)
+
+
+# Unity ARKit Plugin #
 
 
 This is a native plugin that enables using all the functionality of the ARKit SDK simply within your Unity projects for
